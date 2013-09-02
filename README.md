@@ -1,4 +1,4 @@
 community
 =========
 
-Placeholder repo for discussion
+See this discussion: https://github.com/angular-ui/community/issues/1
